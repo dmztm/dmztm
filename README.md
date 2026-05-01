@@ -6,11 +6,12 @@
 
 ## 🚀 Projects
 
-- **GLineFA and WL** : Currently under development *(FiveM Ecosystem)*  
+- **Start Store** : Outclassing Every Base *(FiveM Store)*  
+- **GLineFA and WL** : Currently under development *(FiveM Ecosystem)* 
 
 ## 📡 Connect
 
-- 💬 Discord : `7z.ws`  
+- 💬 Discord : `justdmzz`  
 - 🐛 GitHub Issues : *Ask me anything*  
 
 
