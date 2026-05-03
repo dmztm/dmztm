@@ -6,7 +6,6 @@
 
 ## 🚀 Projects
 
-- **Start Store** : Outclassing Every Store *(FiveM Store)*  
 - **GLineFA and WL** : Currently under development *(FiveM Ecosystem)* 
 
 ## 📡 Connect
