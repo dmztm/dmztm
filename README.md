@@ -1,14 +1,14 @@
-## ⚡ Quick Stack
+## ⚡ Quick Stack :
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,ts,js,react,nodejs,mysql,tailwind" />
 </p>
 
-## 🚀 Projects
+## 🚀 Projects :
 
-- **GLineFA and WL** : Currently under development *(FiveM Ecosystem)* 
+- **GLineFA and WL (EvaCreation)** : Currently under development *(FiveM Ecosystem)* 
 
-## 📡 Connect
+## 📡 Contact :
 
 - 💬 Discord : `justdmzz`  
 - 🐛 GitHub Issues : *Ask me anything*  
