@@ -6,7 +6,7 @@
 
 ## 🚀 Projects :
 
-- **GLineFA and WL (EvaCreation)** : Currently under development *(FiveM Ecosystem)* 
+- 
 
 ## 📡 Contact :
 
