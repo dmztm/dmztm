@@ -1,12 +1,14 @@
+<h1 align="center">Hi 👋, I'm DmZ</h1>
+
+## 🚀 Projects :
+
+- GLineFA and GLine WL (EvaCreation) : En plein développement (FiveM Ecosystem)
+
 ## ⚡ Quick Stack :
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,ts,js,react,nodejs,mysql,tailwind" />
 </p>
-
-## 🚀 Projects :
-
-- GLineFA and GLine WL (EvaCreation) : En plein développement (FiveM Ecosystem)
 
 ## 📡 Contact :
 
