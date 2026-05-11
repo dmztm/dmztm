@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm DmZ</h1>
 
-- 🔭 I’m currently contributing to 
- 
-- 👨‍💻 All of my projects are available at 
+- 🔭 I’m currently contributing to GL Studios
 
-- 💬 Ask me about Node/React/Lua
-
+- 👨‍💻 All of my projects are available at GLineFA, GLineWL and GLineFreeroam
+  
 ## 📡 Contact :
 
 - 💬 Discord : `justdmzz`  
