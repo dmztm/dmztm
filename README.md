@@ -6,7 +6,7 @@
   
 ## 📡 Contact :
 
-- 💬 Discord : `justdmzz`  
+- 💬 Discord : `dmztm`  
 - 🐛 GitHub Issues : *Ask me anything*  
 
 <p align="center">
