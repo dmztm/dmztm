@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm DmZ</h1>
+<h1 align="center">Hi 👋, I'm Beldia</h1>
 
-- 🔭 I’m currently contributing to GL Studios
+- 🔭 I’m currently contributing to my Studios
 
 - 👨‍💻 All of my projects are available at GLineFA, GLineWL and GLineFreeroam
   
