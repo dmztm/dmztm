@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Beldia</h1>
 
-- 🔭 I’m currently contributing to my Studios
+- 🔭 I’m currently contributing to GL Studios
 
-- 👨‍💻 All of my projects are available at GLineFA, GLineWL and GLineFreeroam
+- 👨‍💻 All of my projects are available at GL Studios
   
 ## 📡 Contact :
 
-- 💬 Discord : `dmztm`  
+- 💬 Discord : `beldiaa93`  
 - 🐛 GitHub Issues : *Ask me anything*  
 
 <p align="center">
