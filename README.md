@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beldia</h1>
 
 - 🔭 I’m currently contributing to Rewind Studios
-
 - 👨‍💻 All of my projects are available at Rewind Studios
   
 ## 📡 Contact :
