@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DmZ</h1>
 
-- 🔭 I’m currently contributing to Ryuko Game
-- 👨‍💻 All of my projects are available at Ryuko Game
+- 🔭 I’m currently contributing to Ryuko Studios
+- 👨‍💻 All of my projects are available at Ryuko Studios
   
 ## 📡 Contact :
 
