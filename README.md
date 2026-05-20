@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Beldia</h1>
+<h1 align="center">Hi 👋, I'm DmZ</h1>
 
-- 🔭 I’m currently contributing to Rewind Studios
-- 👨‍💻 All of my projects are available at Rewind Studios
+- 🔭 I’m currently contributing to Ryuko Game
+- 👨‍💻 All of my projects are available at Ryuko Game
   
 ## 📡 Contact :
 
-- 💬 Discord : `beldiaa93`  
+- 💬 Discord : `dmztm`  
 - 🐛 GitHub Issues : *Ask me anything*  
 
 <p align="center">
