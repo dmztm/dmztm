@@ -16,7 +16,7 @@
 
 <div align="center">
  <h2> Languages, Frameworks & Tools </h2>
-   <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,c,cpp,lua,docker,git,mysql,postgres,react" /> <br>
+   <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,c,cpp,lua,docker,git,mysql,react" /> <br>
 </div>
 
 <p align="center">
