@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DmZ</h1>
 
-- 🔭 I’m currently contributing to @glstds
+- 🔭 I’m currently contributing to 
 
 - 💬 Ask me about Node/React/C/C++/Lua
 
