@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm DmZ</h1>
 
-- 
-  
+- 🔭 I’m currently contributing to https://github.com/glstds/
+
+- 👨‍💻 All of my projects are available at https://dmztm.fr/
+
+- 💬 Ask me about Node/React/C/C++/Lua
+
 ## 📡 Contact :
 
-- 💬 Discord : `dmztm`  
+- 💬 How to reach me dmz.developper@gmail.com | @dmztm on Discord
 - 🐛 GitHub Issues : *Ask me anything*  
 
 <p align="center">
