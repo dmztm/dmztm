@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently contributing to @glstds
 
-- 👨‍💻 All of my projects are available at dmztm.fr/
-
 - 💬 Ask me about Node/React/C/C++/Lua
 
 ## 📡 Contact :
