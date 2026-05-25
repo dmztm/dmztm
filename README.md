@@ -3,10 +3,9 @@
 - 🔭 I’m currently contributing to 
 
 - 💬 Ask me about Node/React/C/C++/Lua
-
-## 📡 Contact :
-
+  
 - 💬 How to reach me dmz.developper@gmail.com | @dmztm on Discord
+  
 - 🐛 GitHub Issues : *Ask me anything*  
 
 <p align="center">
