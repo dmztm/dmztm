@@ -6,7 +6,7 @@
  </p>
 <p align="left">  </p>
 
-- 🔭 I’m currently contributing to [**@GLine**](https://github.com/glstds/)
+- 🔭 I’m currently contributing to [**@GL Studios**](https://github.com/glstds/)
  
 - 👨‍💻 All of my projects are available at [https://dmztm.fr/](https://dmztm.fr/)
 
@@ -16,7 +16,7 @@
 
 <div align="center">
  <h2> Languages, Frameworks & Tools </h2>
-   <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,adonis,react,c,cpp,lua,docker,git,mysql,postgres" /> <br>
+   <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,react,c,cpp,lua,docker,git,mysql,postgres,react" /> <br>
 </div>
 
 <p align="center">
