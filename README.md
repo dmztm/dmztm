@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DmZ</h1>
 
-- 🔭 I’m currently contributing to https://github.com/glstds/
+- 🔭 I’m currently contributing to @glstds
 
 - 👨‍💻 All of my projects are available at https://dmztm.fr/
 
