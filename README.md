@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently contributing to [**@EvaProduction**](https://github.com/evaproductionfr/)
   
-- 💬 Ask me about Node/React/C/C++/Lua
+- 💬 Ask me about Node/React/C/C++/Lua ...
 
 <div align="center">
  <h2> Languages, Frameworks & Tools </h2>
