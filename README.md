@@ -7,12 +7,10 @@
 <p align="left">  </p>
 
 - 🔭 I’m currently contributing to [**@GL Studios**](https://github.com/glstds/)
- 
-- 👨‍💻 All of my projects are available at [https://dmztm.fr/](https://dmztm.fr/)
 
 - 💬 Ask me about Node/React/C/C++/Lua
 
-- 📫 How to reach me **dmz.developper@gmail.com** | **@dmztm** on Discord
+- 📫 How to reach me **@dmztm** on Discord
 
 <div align="center">
  <h2> Languages, Frameworks & Tools </h2>
