@@ -7,14 +7,12 @@
 <p align="left">  </p>
 
 - 🔭 I’m currently contributing to [**@EvaProduction**](https://github.com/evaproductionfr/)
-
+- 
 - 💬 Ask me about Node/React/C/C++/Lua
-
-- 📫 How to reach me **@dmztm** on Discord
 
 <div align="center">
  <h2> Languages, Frameworks & Tools </h2>
-   <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,c,cpp,lua,docker,git,mysql,react" /> <br>
+   <img src="https://skillicons.dev/icons?i=lua,ts,js,react,nextjs,nodejs,mysql,tailwind,git,linux,docker,vscode&perline=12" />
 </div>
 
 <p align="center">
