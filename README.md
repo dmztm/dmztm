@@ -5,7 +5,7 @@
  </p>
 <p align="left">  </p>
 
-- 🔭 I’m currently contributing to [**@Visual**](https://github.com/visualstds/)
+- 🔭 I contribute and the CEO currently to [**@Visual**](https://)
   
 - 💬 Ask me about Node/React/C/C++/Lua/...
 
