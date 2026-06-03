@@ -11,7 +11,7 @@
 
 <div align="center">
  <h2> Languages, Frameworks & Tools </h2>
-   <img src="https://skillicons.dev/icons?i=lua,react,ps,pr,arduino,bash,blender,c,cpp,css,docker,figma,git,html,js,mysql,ts,vue,visualstudiocode&perline=12" />
+   <img src="https://skillicons.dev/icons?i=lua,css,js,html,react,vue,arduino,github,ps,pr,mysql,cs,cpp,visualstudio&perline=12" />
 </div>
 
 <p align="center">
