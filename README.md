@@ -5,7 +5,7 @@
  </p>
 <p align="left">  </p>
 
-- 🔭 I contribute and the CEO currently to [**@WebDigital**]()
+- 🔭 I contribute and the CEO currently to 
   
 - 💬 Ask me about Node/React/C/C++/Lua/...
 
