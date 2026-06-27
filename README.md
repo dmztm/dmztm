@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm DmZ</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dmztm&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/dmztm.svg?style=flat&label=Follow&maxAge=2592000" />
-</p>
+<h1 align="center">👋 Hi, I'm DmZ <a href="#"><img src="https://komarev.com/ghpvc/?username=dmztm&label=Profile%20views&color=0e75b6&style=flat" /></a>
+</h1> 
 
 #### 👨‍💻 Frontend :  
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript, SCSS  
