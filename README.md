@@ -5,8 +5,6 @@
  </p>
 <p align="left">  </p>
 
-### 🛠️ Technical Skills
-
 #### 👨‍💻 Frontend  
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript, SCSS  
 - **Frameworks & Libraries:** React, Vue.js, Tailwind CSS
@@ -14,8 +12,6 @@
 #### 🧠 Backend  
 - **Languages:** C, C++, C#, Java, PHP, Lua 
 - **Frameworks:** Laravel
-
----
 
 ### 🧰 Tools & Environments  
 - Git, GitHub, VS Code, Visual Studio  
