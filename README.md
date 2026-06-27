@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm DmZ <a href="#"><img src="https://komarev.com/ghpvc/?username=dmztm&label=Profile%20views&color=0e75b6&style=flat" /></a>
 </h1> 
 
+### 🛠️ Technical Skills
+
 #### 👨‍💻 Frontend :  
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript, SCSS  
 - **Frameworks & Libraries:** React, Vue.js, Tailwind CSS
