@@ -5,14 +5,23 @@
  </p>
 <p align="left">  </p>
 
-- 🔭 I contribute and the CEO currently to 
-  
-- 💬 Ask me about Node/React/C/C++/Lua/...
+### 🛠️ Technical Skills
 
-<div align="center">
- <h2> Languages, Frameworks & Tools </h2>
-   <img src="https://skillicons.dev/icons?i=lua,css,js,html,react,java,mysql,c,cpp,bash,blender,visualstudio&perline=12" />
-</div>
+#### 👨‍💻 Frontend  
+- **Languages:** HTML5, CSS3, JavaScript, TypeScript, SCSS  
+- **Frameworks & Libraries:** React, Vue.js, Tailwind CSS
+
+#### 🧠 Backend  
+- **Languages:** C, C++, C#, Java, PHP, Lua 
+- **Frameworks:** Laravel
+
+---
+
+### 🧰 Tools & Environments  
+- Git, GitHub, VS Code, Visual Studio  
+- JetBrains Suite (IntelliJ, PhpStorm, etc.)  
+- Figma, Trello
+- Windows & MacOS
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/oskdev-fivem/oskdev-fivem/main/gitsnake.svg" />
