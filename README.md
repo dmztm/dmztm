@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently contributing to [**@Visual Solutions**](https://github.com//)
  
-- 👨‍💻 All of my projects are available at  https://dmz7z.fr/
+- 👨‍💻 All of my projects are available at  https://dmz.fr/
 
 - 💬 Ask me about Node/React/C/C++/Lua
 
