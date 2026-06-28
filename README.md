@@ -11,7 +11,7 @@
 
 - 💬 Ask me about Node/React/C/C++/Lua
 
-- 📫 How to reach me **dmzdev@contact.fr** | **@xp.7z** on Discord
+- 📫 How to reach me **@xp.7z** on Discord
 
 <div align="center">
  <h2> Languages, Frameworks & Tools </h2>
