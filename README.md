@@ -5,7 +5,7 @@
  </p>
 <p align="left">  </p>
 
-- 🔭 I’m currently contributing to [**@Eve Solutions**](https://github.com//)
+- 🔭 I’m currently contributing to [**@Visual Solutions**](https://github.com//)
  
 - 👨‍💻 All of my projects are available at  https://dmz.fr/
 
@@ -15,7 +15,7 @@
 
 <div align="center">
  <h2> Languages, Frameworks & Tools </h2>
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,lua,mysql,bash,c,cpp,visualstudio" /> <br>
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,lua,mysql,bash,c,cs,cpp,visualstudio" /> <br>
 </div>
 
 <p align="center">
