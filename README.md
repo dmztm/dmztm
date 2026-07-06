@@ -5,13 +5,13 @@
  </p>
 <p align="left">  </p>
 
-- 🔭 I’m currently contributing to [**@Visual Solutions**](https://github.com//)
+- 🔭 I’m currently contributing to [**@Visual Games**](https://visual-games.com)
  
 - 👨‍💻 All of my projects are available at  https://dmz.fr/
 
 - 💬 Ask me about Node/React/C/C++/Lua
 
-- 📫 How to reach me **@xp.7z** on Discord
+- 📫 How to reach me **@unkwn93** on Discord
 
 <div align="center">
  <h2> Languages, Frameworks & Tools </h2>
