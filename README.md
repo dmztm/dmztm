@@ -5,9 +5,7 @@
  </p>
 <p align="left">  </p>
 
-- 🔭 I’m currently contributing to [**@Visual Games**](https://visual-games.com)
- 
-- 👨‍💻 All of my projects are available at  https://dmz.fr/
+- 🔭 No projects currently
 
 - 💬 Ask me about Node/React/C/C++/Lua
 
