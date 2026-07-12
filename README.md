@@ -5,7 +5,7 @@
  </p>
 <p align="left">  </p>
 
-- 🔭 No projects currently
+- 🔭 No projects at the moment, but I am the CEO of VisualCorp.
 
 - 💬 Ask me about Node/React/C/C++/Lua
 
