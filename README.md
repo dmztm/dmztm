@@ -4,16 +4,16 @@
 
 <h1>DmZ</h1>
 
-<h3>Fondateur &amp; CEO d'Ryu Agency</h3>
+<h3>Fondateur &amp; CEO d'DmZ Corp</h3>
 
 <br />
 
 <p>
-  <a href="https://ryuagency.com/"><img src="https://img.shields.io/badge/Addveo-FF7E1D?style=for-the-badge&labelColor=162144&logo=icloud&logoColor=white" alt="Addveo" /></a>
+  <a href="https://dmzcorp.com/"><img src="https://img.shields.io/badge/Addveo-FF7E1D?style=for-the-badge&labelColor=162144&logo=icloud&logoColor=white" alt="Addveo" /></a>
   &nbsp;
-  <a href="https://discord.gg/ryuagency"><img src="https://img.shields.io/badge/Discord-FF7E1D?style=for-the-badge&labelColor=162144&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/dmzcorp"><img src="https://img.shields.io/badge/Discord-FF7E1D?style=for-the-badge&labelColor=162144&logo=discord&logoColor=white" alt="Discord" /></a>
   &nbsp;
-  <a href="mailto:contact@ryuagency.com"><img src="https://img.shields.io/badge/Contact-FF7E1D?style=for-the-badge&labelColor=162144&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="mailto:contact@dmzcorp.com"><img src="https://img.shields.io/badge/Contact-FF7E1D?style=for-the-badge&labelColor=162144&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -22,11 +22,13 @@
 
 ## À propos
 
-Fondateur et CEO d'**Ryu Agency**, où je pilote la vision, la stratégie et l'organisation de l'entreprise au quotidien.
+Fondateur et CEO de **DmZ Corp**, je pilote stratégique des créateurs de contenu, d'influenceurs et de modèles OnlyFans en pilotant leur croissance, leur image de marque et leur activité.
 
-J'ai dirigé et coordonné des **équipes de plus de 30 personnes** sur des projets à fort enjeu, en assurant la **gestion des budgets**, l'organisation et le pilotage opérationnel de bout en bout. Mon travail couvre aussi le **développement de marque** et la construction d'une **image de marque** cohérente, ainsi que la **gestion de crise** dans des contextes exigeants.
+J'ai dirigé et coordonné des **équipes de plus de 15 collaborateurs**, en supervisant les opérations, la gestion des budgets, les processus internes et le suivi des performances afin d'assurer une croissance durable.
 
-J'interviens également comme conseiller en stratégie et management auprès d'autres structures, pour les accompagner dans leur croissance et l'optimisation de leur organisation. Je m'intéresse particulièrement aux environnements complexes et à la construction de structures solides, durables et bien gouvernées dès leur phase de croissance.
+Mon expertise couvre le **personal branding**, le **positionnement de marque**, la gestion de l'image publique, les stratégies de monétisation, le développement commercial ainsi que la **gestion de crise** dans des environnements à forte visibilité.
+
+J'interviens également en tant que conseiller stratégique auprès de créateurs et d'agences pour optimiser leur organisation, structurer leurs opérations, développer leur audience et maximiser leurs revenus grâce à une vision long terme et des stratégies adaptées aux plateformes sociales et aux modèles d'abonnement.
 
 <br />
 
@@ -34,17 +36,17 @@ J'interviens également comme conseiller en stratégie et management auprès d'a
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Direction_opérationnelle-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Stratégie-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Management_d'équipes-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Personal_Branding-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Creator_Management-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Content_Strategy-162144?style=for-the-badge" alt="" />
 <br />
-<img src="https://img.shields.io/badge/Gestion_de_budgets-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Développement_de_marque-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Image_de_marque-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Audience_Growth-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/OnlyFans_Management-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Social_Media_Strategy-162144?style=for-the-badge" alt="" />
 <br />
-<img src="https://img.shields.io/badge/Gestion_de_crise-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Gestion_de_projet-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Organisation-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Brand_Partnerships-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Monetization-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Crisis_Management-162144?style=for-the-badge" alt="" />
 
 </div>
 
