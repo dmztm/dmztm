@@ -9,7 +9,7 @@
 <br />
 
 <p>
-  <a href="https://dmzcorp.com/"><img src="https://img.shields.io/badge/Addveo-FF7E1D?style=for-the-badge&labelColor=162144&logo=icloud&logoColor=white" alt="Addveo" /></a>
+  <a href="https://dmzcorp.com/"><img src="https://img.shields.io/badge/DmZ Corp-FF7E1D?style=for-the-badge&labelColor=162144&logo=icloud&logoColor=white" alt="Addveo" /></a>
   &nbsp;
   <a href="https://discord.gg/dmzcorp"><img src="https://img.shields.io/badge/Discord-FF7E1D?style=for-the-badge&labelColor=162144&logo=discord&logoColor=white" alt="Discord" /></a>
   &nbsp;
