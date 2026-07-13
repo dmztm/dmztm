@@ -22,13 +22,11 @@
 
 ## À propos
 
-Fondateur et CEO de **DmZ Corp**, je pilote stratégique des créateurs et créatrices de contenu, d'influenceurs et de modèles OnlyFans en pilotant leur croissance, leur image de marque et leur activité.
+Fondateur et CEO de **DmZ Corp**, je pilote la solutions digitales sur mesure ainsi que le pôle **OFM**, dédié à l'accompagnement et à la croissance de créateurs de contenu.
 
-J'ai dirigé et coordonné des **équipes de plus de 15 collaborateurs**, en supervisant les opérations, la gestion des budgets, les processus internes et le suivi des performances afin d'assurer une croissance durable.
+Côté développement, je conçois et supervise des projets web, des applications, des outils métier et des infrastructures techniques adaptés aux besoins de nos clients.
 
-Mon expertise couvre le **personal branding**, le **positionnement de marque**, la gestion de l'image publique, les stratégies de monétisation, le développement commercial ainsi que la **gestion de crise** dans des environnements à forte visibilité.
-
-J'interviens également en tant que conseiller stratégique auprès de créateurs et d'agences pour optimiser leur organisation, structurer leurs opérations, développer leur audience et maximiser leurs revenus grâce à une vision long terme et des stratégies adaptées aux plateformes sociales et aux modèles d'abonnement.
+Côté OFM, j'accompagne les créateurs dans leur stratégie, leur image de marque, leur monétisation et le développement de leur activité, en m'appuyant sur une équipe spécialisée et des processus optimisés.
 
 <br />
 
