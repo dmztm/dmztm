@@ -22,11 +22,7 @@
 
 ## À propos
 
-Fondateur et CEO de **DmZ Corp**, je pilote la solutions digitales sur mesure ainsi que le pôle **OFM**, dédié à l'accompagnement et à la croissance de créateurs de contenu.
-
-Côté développement, je conçois et supervise des projets web, des applications, des outils métier et des infrastructures techniques adaptés aux besoins de nos clients.
-
-Côté OFM, j'accompagne les créateurs dans leur stratégie, leur image de marque, leur monétisation et le développement de leur activité, en m'appuyant sur une équipe spécialisée et des processus optimisés.
+Fondateur et CEO de **DmZ Corp**, je pilote la solutions digitales sur mesure, dédié à l'accompagnement et à la croissance de mes entreprises.
 
 <br />
 
