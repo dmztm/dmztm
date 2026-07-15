@@ -18,8 +18,6 @@
 
 </div>
 
-<br />
-
 ## À propos
 
 Fondateur et CEO de **DmZ Corp**, je pilote la solutions digitales sur mesure, dédié à l'accompagnement et à la croissance de mes entreprises.
