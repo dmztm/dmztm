@@ -9,7 +9,7 @@
 <br />
 
 <p>
-  <a href="https://dmzcorp.com/"><img src="https://img.shields.io/badge/DmZ Corp-FF7E1D?style=for-the-badge&labelColor=162144&logo=icloud&logoColor=white" alt="Addveo" /></a>
+  <a href="https://dmzcorp.com/"><img src="https://img.shields.io/badge/DmZ Corp-FF7E1D?style=for-the-badge&labelColor=162144&logo=icloud&logoColor=white" alt="DMZ CORP" /></a>
   &nbsp;
   <a href="mailto:contact@dmzcorp.com"><img src="https://img.shields.io/badge/Contact-FF7E1D?style=for-the-badge&labelColor=162144&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
