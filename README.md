@@ -18,7 +18,7 @@
 
 ## À propos
 
-Fondateur et CEO de **DmZ Corp**, je pilote la solutions digitales sur mesure, dédié à l'accompagnement et à la croissance de mes entreprises.
+Fondateur et CEO de **DmZ Corp**, je pilote les solutions digitales sur mesures, dédiées à l'accompagnements et à la croissances de mes entreprises.
 
 ## Domaines d'expertise
 
