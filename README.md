@@ -23,19 +23,17 @@ Fondateur et CEO de **DmZ Corp**, je pilote la solutions digitales sur mesure, d
 ## Domaines d'expertise
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Personal_Branding-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Creator_Management-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Content_Strategy-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Influence_Management-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/OFM_Management-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Software_Developer-162144?style=for-the-badge" alt="" />
 <br />
-<img src="https://img.shields.io/badge/Audience_Growth-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/OnlyFans_Management-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Social_Media_Strategy-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Founder_%26_CEO-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Business_Owner-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Freelance_Developer-162144?style=for-the-badge" alt="" />
 <br />
-<img src="https://img.shields.io/badge/Brand_Partnerships-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Monetization-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Crisis_Management-162144?style=for-the-badge" alt="" />
-
+<img src="https://img.shields.io/badge/Entrepreneur-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Business_Development-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Digital_Strategy-162144?style=for-the-badge" alt="" />
 </div>
 
 <br />
