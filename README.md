@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:162144,100:FF7E1D&height=180&section=header" width="100%" alt="" />
 
-<p>
-  <a href="https://ryucorp.com/"><img src="https://img.shields.io/badge/Ryu Corp-FF7E1D?style=for-the-badge&labelColor=162144&logo=icloud&logoColor=white" alt="Ryu Corp" /></a>
-  &nbsp;
-  <a href="mailto:contact@ryucorp.com"><img src="https://img.shields.io/badge/Contact-FF7E1D?style=for-the-badge&labelColor=162144&logo=maildotru&logoColor=white" alt="Email" /></a>
-</p>
-
 </div>
 
 ## À propos
