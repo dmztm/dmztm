@@ -2,23 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:162144,100:FF7E1D&height=180&section=header" width="100%" alt="" />
 
-<h1>DmZ</h1>
-
-<h3>Fondateur &amp; CEO d'DmZ Corp</h3>
+<h3>Fondateur &amp; CEO d'Ryu Corp</h3>
 
 <br />
 
 <p>
-  <a href="https://dmzcorp.com/"><img src="https://img.shields.io/badge/DmZ Corp-FF7E1D?style=for-the-badge&labelColor=162144&logo=icloud&logoColor=white" alt="DMZ CORP" /></a>
+  <a href="https://ryucorp.com/"><img src="https://img.shields.io/badge/Ryu Corp-FF7E1D?style=for-the-badge&labelColor=162144&logo=icloud&logoColor=white" alt="Ryu Corp" /></a>
   &nbsp;
-  <a href="mailto:contact@dmzcorp.com"><img src="https://img.shields.io/badge/Contact-FF7E1D?style=for-the-badge&labelColor=162144&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="mailto:contact@ryucorp.com"><img src="https://img.shields.io/badge/Contact-FF7E1D?style=for-the-badge&labelColor=162144&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
 
 ## À propos
 
-Fondateur et CEO de **DmZ Corp**, je pilote les solutions digitales sur mesures, dédiées à l'accompagnements et à la croissances de mes entreprises.
+Fondateur et CEO de **Ryu Corp**, je pilote les solutions digitales sur mesures, dédiées à l'accompagnements et à la croissances de mes entreprises.
 
 ## Domaines d'expertise
 
