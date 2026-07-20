@@ -6,7 +6,7 @@
 
 ## À propos
 
-Fondateur et CEO de **Ryu Corp**, je pilote les solutions digitales sur mesures, dédiées à l'accompagnements et à la croissances de mes entreprises.
+Je pilotes les solutions digitales sur mesures, dédiées à l'accompagnements et à la croissances de mes entreprises.
 
 ## Domaines d'expertise
 
