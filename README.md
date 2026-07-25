@@ -6,17 +6,17 @@
 
 ## À propos
 
-Je pilotes les solutions digitales sur mesures, dédiées à l'accompagnements et à la croissances de mes entreprises.
+I spearhead bespoke digital solutions dedicated to supporting and driving the growth of my companies.
 
 ## Domaines d'expertise
 
 <div align="center">
 <img src="https://img.shields.io/badge/OFM_Management-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Developer-162144?style=for-the-badge" alt="" />
 <br />
 <img src="https://img.shields.io/badge/Founder_%26_CEO-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Freelance-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Developer-162144?style=for-the-badge" alt="" />
 <br />
+<img src="https://img.shields.io/badge/Freelance-162144?style=for-the-badge" alt="" />
 <img src="https://img.shields.io/badge/Auto_Entrepreneur-162144?style=for-the-badge" alt="" />
 <img src="https://img.shields.io/badge/Entrepreneur-162144?style=for-the-badge" alt="" />
 </div>
