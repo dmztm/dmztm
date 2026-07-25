@@ -13,14 +13,14 @@ Je pilotes les solutions digitales sur mesures, dédiées à l'accompagnements e
 <div align="center">
 <img src="https://img.shields.io/badge/Influence_Management-162144?style=for-the-badge" alt="" />
 <img src="https://img.shields.io/badge/OFM_Management-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Software_Developer-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Developer-162144?style=for-the-badge" alt="" />
 <br />
 <img src="https://img.shields.io/badge/Founder_%26_CEO-162144?style=for-the-badge" alt="" />
 <img src="https://img.shields.io/badge/Business_Owner-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Freelance_Developer-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Freelance-162144?style=for-the-badge" alt="" />
 <br />
 <img src="https://img.shields.io/badge/Entrepreneur-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Business_Development-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Auto-Entrepreneur-162144?style=for-the-badge" alt="" />
 <img src="https://img.shields.io/badge/Digital_Strategy-162144?style=for-the-badge" alt="" />
 </div>
 
